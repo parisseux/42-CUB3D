@@ -1,5 +1,5 @@
- Cub3D
-_________ 
+  CUB3D 
+-------------
 
 A minimalistic 3D game engine inspired by Wolfenstein 3D, written in C.
 
@@ -59,25 +59,29 @@ Esc --> close window
 Mouse --> rotate POV
 
 ## Project Structure 
-├── src/
+├── cub3d/src
 
 │   ├── parsing/
 
-│   ├── rendering/
+│   ├── mlx/
 
 │   ├── raycasting/
 
-│   ├── input/
+│   ├── utils.c
 
 │   └── main.c
 
-├── inc/
+├── cub3d_bonus
 
-├── textures/
+├── Textures/
+
+├── maps/
 
 ├── libft/
 
-├── minilibx/
+├── minilibx-linus/
+
+├── minilibx_macos/
 
 ├── Makefile
 
