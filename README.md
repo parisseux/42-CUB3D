@@ -87,4 +87,4 @@ Mouse --> rotate POV
 
 └── README.md
 
-Project developed in collaboration with GauthierRohr as part of the École 42 curriculum.
+👥 Project developed in collaboration with GauthierRohr as part of the École 42 curriculum.
