@@ -1,6 +1,5 @@
   CUB3D 
 -------------
-<img width="1922" height="1076" alt="Screenshot from 2026-01-05 15-04-47" src="https://github.com/user-attachments/assets/dbccae66-c66a-4f5d-9c32-f510cc44cadd" />
 
 A minimalistic 3D game engine inspired by Wolfenstein 3D, written in C.
 
@@ -8,6 +7,7 @@ The goal of cub3D is to understand the fundamentals of raycasting and real-time 
 
 The program parses a configuration file, loads textures, handles user input, and renders a 3D environment using a 2D map and raycasting techniques.
 
+<img width="1922" height="1076" alt="Screenshot from 2026-01-05 15-04-47" src="https://github.com/user-attachments/assets/dbccae66-c66a-4f5d-9c32-f510cc44cadd" />
 ## Features 
 - Real-time 3D rendering using raycasting
 
